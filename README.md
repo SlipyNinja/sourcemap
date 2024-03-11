@@ -1,6 +1,6 @@
 # 从compiled_json或源码中获取function的offset
 * extractFromJson.py用于从json文件抽取function offset  
-* extractFromSourcecode.py用于从sourcecode中抽取function offset
+* extractFromSourcecode.py用于从sourcecode中抽取function及contract offset
 ## 用法
 1. 修改对应.py文件中json/contract及输出目录绝对路径
 2. 执行.py文件输出offset
