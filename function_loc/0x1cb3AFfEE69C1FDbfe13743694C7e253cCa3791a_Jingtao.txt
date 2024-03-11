@@ -1,1 +1,0 @@
-[{'file_name': 'Jingtao.sol', 'offset': '14900:15270', 'function_name': '_approve'}, {'file_name': 'Jingtao.sol', 'offset': '11869:12687', 'function_name': '_transfer'}]
