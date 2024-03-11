@@ -1,0 +1,1 @@
+[{'file_name': 'LooknowToken.sol', 'offset': '14384:15202', 'function_name': '_transfer'}, {'file_name': 'LooknowToken.sol', 'offset': '17415:17785', 'function_name': '_approve'}, {'file_name': 'LooknowToken.sol', 'offset': '2291:2421', 'function_name': '_checkOwner'}]

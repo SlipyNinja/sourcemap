@@ -1,0 +1,1 @@
+[{'file_name': '01_10_AaveV2EthereumUSDC.sol', 'offset': '430:549', 'function_name': 'hasAllocation'}, {'file_name': '01_10_AaveV2EthereumUSDC.sol', 'offset': '903:983', 'function_name': '_withdrawFunds'}, {'file_name': '01_10_AaveV2EthereumUSDC.sol', 'offset': '783:897', 'function_name': '_exit'}]
