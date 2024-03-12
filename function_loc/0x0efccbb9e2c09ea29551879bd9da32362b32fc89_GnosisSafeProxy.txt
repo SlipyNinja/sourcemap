@@ -1,1 +1,13 @@
-[{'file_name': 'GnosisSafeProxy.sol', 'offset': '397:1166', 'item_name': 'allows', 'type': 'contract'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '580:1166', 'item_name': 'GnosisSafeProxy', 'type': 'contract'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '2257:3004', 'item_name': 'GnosisSafeProxyFactory', 'type': 'contract'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '6254:6826', 'item_name': 'has', 'type': 'contract'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '296:352', 'item_name': 'masterCopy', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '2608:3004', 'item_name': 'createProxy', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '3210:3330', 'item_name': 'proxyRuntimeCode', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '3481:3603', 'item_name': 'proxyCreationCode', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '4051:4744', 'item_name': 'deployProxyWithNonce', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '5201:5710', 'item_name': 'createProxyWithNonce', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '6315:6826', 'item_name': 'createProxyWithCallback', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '7443:7757', 'item_name': 'calculateCreateProxyWithNonceAddress', 'type': 'function'}, {'file_name': 'GnosisSafeProxy.sol', 'offset': '7800:7961', 'item_name': 'proxyCreated', 'type': 'function'}]
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '296:350', 'item_name': 'masterCopy', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '397:2077', 'item_name': 'allows', 'type': 'contract'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '580:2077', 'item_name': 'GnosisSafeProxy', 'type': 'contract'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '2257:7759', 'item_name': 'GnosisSafeProxyFactory', 'type': 'contract'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '2608:3070', 'item_name': 'createProxy', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '3210:3330', 'item_name': 'proxyRuntimeCode', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '3481:3603', 'item_name': 'proxyCreationCode', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '4051:4820', 'item_name': 'deployProxyWithNonce', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '5201:5777', 'item_name': 'createProxyWithNonce', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '6254:6826', 'item_name': 'has', 'type': 'contract'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '6315:6826', 'item_name': 'createProxyWithCallback', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '7443:7757', 'item_name': 'calculateCreateProxyWithNonceAddress', 'type': 'function'}
+{'file_name': 'GnosisSafeProxy.sol', 'offset': '7800:7959', 'item_name': 'proxyCreated', 'type': 'function'}

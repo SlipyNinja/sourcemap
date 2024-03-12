@@ -1,1 +1,7 @@
-[{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '533:832', 'item_name': 'ERC1967', 'type': 'contract'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '686:832', 'item_name': '_getImplementation', 'type': 'function'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '843:1112', 'item_name': '_setImplementation', 'type': 'function'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '1553:1694', 'item_name': 'getAddressSlot', 'type': 'function'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '1798:1939', 'item_name': 'getBooleanSlot', 'type': 'function'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '2043:2184', 'item_name': 'getBytes32Slot', 'type': 'function'}, {'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '2288:2429', 'item_name': 'getUint256Slot', 'type': 'function'}]
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '533:1117', 'item_name': 'ERC1967', 'type': 'contract'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '686:832', 'item_name': '_getImplementation', 'type': 'function'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '843:1112', 'item_name': '_setImplementation', 'type': 'function'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '1553:1700', 'item_name': 'getAddressSlot', 'type': 'function'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '1798:1945', 'item_name': 'getBooleanSlot', 'type': 'function'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '2043:2190', 'item_name': 'getBytes32Slot', 'type': 'function'}
+{'file_name': '19_19_StorageSlotUpgradeable.sol', 'offset': '2288:2435', 'item_name': 'getUint256Slot', 'type': 'function'}
